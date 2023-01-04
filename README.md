@@ -1,4 +1,4 @@
-# web_app_test
+# flutter-weather-app
 
 A new Flutter project.
 
